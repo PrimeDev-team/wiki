@@ -6,6 +6,6 @@ Hi! We are really excited that you are interested in contributing to Primedevs. 
 
 - [Code of Conduct](./wiki/CODE_OF_CONDUCT.md)
 - [Commit Conventions](./wiki/COMMIT_CONVENTION.md)
-- [Vue Contribution Guidelines](./wiki/VUE_CONTRIBUTING.md)
-- [Vuex Contribution Guidelines](./wiki/VUEX_CONTRIBUTING.md)
+- [Vue Contribution Guidelines](./wiki/FRONTEND_DEVELOPMENT/VUE_CONTRIBUTING.md)
+- [Vuex Contribution Guidelines](./wiki/FRONTEND_DEVELOPMENT/VUEX_CONTRIBUTING.md)
 - [Pull Request Template](./wiki/PULL_REQUEST_TEMPLATE.md)
